@@ -1,10 +1,19 @@
 <p align="center">
     
-    注意：此仅作为储存库，最新版本请访问原作者库 请本人仅更新app/Languages/zh-CN/中简体中文文件。
+    注意：此仅作为储存库，最新版本请访问原作者库 请本人仅更新app/Languages/zh-CN/中简体中文文件(此目录不再更新)。
     
-    Примечание. Это только репозиторий, последнюю версию можно найти в исходной авторской библиотеке. Обновите только файлы app/Languages/zh-CN/ упрощенного китайского языка.
+    最新版本 简体中文 已移至 https://github.com/Redweiweb/libarea_lang-zh-CN
     
-    Note: This is only a repository, please visit the original author's repository for the latest version. Please update only the Simplified Chinese files in app/Languages/zh-CN/ by myself.
+    Последняя версия Упрощенный китайский перенесена на https://github.com/Redweiweb/libarea_lang-zh-CN.
+    
+    Latest version Simplified Chinese Moved to https://github.com/Redweiweb/libarea_lang-zh-CN
+    
+    
+    Примечание. Это только репозиторий, последнюю версию можно найти в исходной авторской библиотеке. 
+    Обновите только файлы app/Languages/zh-CN/ упрощенного китайского языка.
+    
+    Note: This is only a repository, please visit the original author's repository for the latest version. 
+    Please update only the Simplified Chinese files in app/Languages/zh-CN/ by myself.
     
     
 <a href="https://github.com/LibArea/libarea/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT%20(Free)-brightgreen.svg" alt="License: MIT"></a>
