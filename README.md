@@ -1,4 +1,12 @@
 <p align="center">
+    
+    注意：此仅作为储存库，最新版本请访问原作者库 请本人仅更新app/Languages/zh-CN/中简体中文文件。
+    
+    Примечание. Это только репозиторий, последнюю версию можно найти в исходной авторской библиотеке. Обновите только файлы app/Languages/zh-CN/ упрощенного китайского языка.
+    
+    Note: This is only a repository, please visit the original author's repository for the latest version. Please update only the Simplified Chinese files in app/Languages/zh-CN/ by myself.
+    
+    
 <a href="https://github.com/LibArea/libarea/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT%20(Free)-brightgreen.svg" alt="License: MIT"></a>
 <img src="https://img.shields.io/badge/PHP-^7.4.0-blue" alt="PHP">
 <img src="https://img.shields.io/badge/PHP-8-blue" alt="PHP">
