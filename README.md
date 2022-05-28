@@ -2,11 +2,11 @@
     
     注意：此仅作为储存库，最新版本请访问原作者库 请本人仅更新app/Languages/zh-CN/中简体中文文件(此目录不再更新)。
     
-    最新版本 简体中文 已移至 https://github.com/Redweiweb/libarea_lang-zh-CN
+    最新版本 简体中文 已移至 [https://github.com/Redweiweb/libarea_lang-zh-CN](https://github.com/Redweiweb/libarea_lang-zh-CN)
     
-    Последняя версия Упрощенный китайский перенесена на https://github.com/Redweiweb/libarea_lang-zh-CN.
+    Последняя версия Упрощенный китайский перенесена на [https://github.com/Redweiweb/libarea_lang-zh-CN](https://github.com/Redweiweb/libarea_lang-zh-CN)
     
-    Latest version Simplified Chinese Moved to https://github.com/Redweiweb/libarea_lang-zh-CN
+    Latest version Simplified Chinese Moved to [https://github.com/Redweiweb/libarea_lang-zh-CN](https://github.com/Redweiweb/libarea_lang-zh-CN)
     
     
     Примечание. Это только репозиторий, последнюю версию можно найти в исходной авторской библиотеке. 
