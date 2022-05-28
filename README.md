@@ -6,20 +6,26 @@
 <img src="https://img.shields.io/badge/PHP-8-blue" alt="PHP">
 </p>
 
-注意：此仅作为储存库，最新版本请访问原作者库 请本人仅更新app/Languages/zh-CN/中简体中文文件(此目录不再更新)。
+注意：此仅作为储存库，最新版本请访问原作者库[https://github.com/LibArea/libarea](https://github.com/LibArea/libarea) 本人仅更新app/Languages/zh-CN/中简体中文文件(0.4.1 此目录不再更新)。
     
-最新版本 简体中文 已移至 [https://github.com/Redweiweb/libarea_lang-zh-CN](https://github.com/Redweiweb/libarea_lang-zh-CN)
+#0.4.2以及最新版本 简体中文 zh-CN
+
+简体中文 将在此库中更新 [https://github.com/Redweiweb/libarea_lang-zh-CN](https://github.com/Redweiweb/libarea_lang-zh-CN)  
     
-Последняя версия Упрощенный китайский перенесена на [https://github.com/Redweiweb/libarea_lang-zh-CN](https://github.com/Redweiweb/libarea_lang-zh-CN)
+0.4.2 и последняя версия Упрощенный китайский zh-CN
+
+будет обновлен в этой библиотеке [https://github.com/Redweiweb/libarea_lang-zh-CN](https://github.com/Redweiweb/libarea_lang-zh-CN)
     
-Latest version Simplified Chinese Moved to [https://github.com/Redweiweb/libarea_lang-zh-CN](https://github.com/Redweiweb/libarea_lang-zh-CN)
+0.4.2 and latest version Simplified Chinese zh-CN
+
+will be updated in this library [https://github.com/Redweiweb/libarea_lang-zh-CN](https://github.com/Redweiweb/libarea_lang-zh-CN)
     
     
 Примечание. Это только репозиторий, последнюю версию можно найти в исходной авторской библиотеке. 
-Обновите только файлы app/Languages/zh-CN/ упрощенного китайского языка.
+Обновите только файлы app/Languages/zh-CN/ упрощенного китайского языка. v0.4.1
     
 Note: This is only a repository, please visit the original author's repository for the latest version. 
-Please update only the Simplified Chinese files in app/Languages/zh-CN/ by myself.
+Please update only the Simplified Chinese files in app/Languages/zh-CN/ by myself. v.0.4.1
 
 
 
